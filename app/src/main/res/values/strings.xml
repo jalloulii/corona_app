@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">corona</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="put_country_name">put country name</string>
+
+    <string name="copyright_yassine_jallouli_2020">copyright yassine jallouli 2020</string>
+    <string name="search">search</string>
+
+    <string name="symptomps">Symptomps</string>
+    <string name="caugh">Caugh</string>
+    <string name="headache">Headache</string>
+    <string name="fever">Fever</string>
+    <string name="prevention">Prevention</string>
+    <string name="wear_face_mask">Wear face mask</string>
+    <string name="since_the_start_of_the_coronavirus_outbreak_some_places_have_fully_embraced_wearing_face_masks_and_anyone_caught_without_one_risks_becoming_a_social_pariah">Since the start of the coronavirus outbreak some places have fully embraced wearing face masks, and anyone caught without one risks becoming a social pariah</string>
+    <string name="wash_your_hands">Wash your hands</string>
+    <string name="these_diseases_include_gastrointestinal_infections_such_as_salmonella_and_respiratory_infections_such_as_influenza">These diseases include gastrointestinal infections, such as Salmonella, and respiratory infections, such as influenza.</string>
+    <string name="todo">TODO</string>
+    <string name="infected">Infected</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+</resources>
